@@ -26,5 +26,8 @@
   "homepage": "https://github.com/ruhose73/jest-testing#readme",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
   }
 }
