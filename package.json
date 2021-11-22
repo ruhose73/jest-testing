@@ -1,0 +1,30 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Trying unit testing in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruhose73/jest-testing.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest.",
+    "unit-tesing",
+    "unit",
+    "testing"
+  ],
+  "author": "ruhose73",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruhose73/jest-testing/issues"
+  },
+  "homepage": "https://github.com/ruhose73/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
